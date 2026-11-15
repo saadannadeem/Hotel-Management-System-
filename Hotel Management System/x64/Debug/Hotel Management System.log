@@ -1,0 +1,9 @@
+﻿  Scanning sources for module dependencies...
+  gui.cpp
+C:\Users\gunp5\source\repos\Hotel Management System\Hotel Management System\gui.cpp(411,11): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\gunp5\source\repos\Hotel Management System\Hotel Management System\gui.cpp(412,11): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\gunp5\source\repos\Hotel Management System\Hotel Management System\gui.cpp(560,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\gunp5\source\repos\Hotel Management System\Hotel Management System\gui.cpp(779,62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\gunp5\source\repos\Hotel Management System\Hotel Management System\gui.cpp(943,62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\gunp5\source\repos\Hotel Management System\Hotel Management System\gui.cpp(968,39): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Hotel Management System.vcxproj -> C:\Users\gunp5\source\repos\Hotel Management System\x64\Debug\Hotel Management System.exe

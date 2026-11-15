@@ -1,0 +1,5 @@
+admin 1234 admin
+reception 1234 receptionist
+saadan 8562 customer
+saadannadeem Pakistan@47 customer
+lala 1234 customer

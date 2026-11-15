@@ -1,0 +1,16 @@
+Booking ID: 10002
+Guest Name: sa
+Room Number: 111
+Nights: 2
+Booking ID: 10003
+Guest Name: Lala
+Room Number: 102
+Nights: 2
+Booking ID: 10001
+Guest Name: Saadan
+Room Number: 101
+Nights: 2
+Booking ID: 10005
+Guest Name: lan
+Room Number: 102
+Nights: 1

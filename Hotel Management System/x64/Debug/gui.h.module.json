@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Debug\\gui.h.obj",
+            "outputs": [
+                "C:\\Users\\gunp5\\source\\repos\\Hotel Management System\\Hotel Management System\\x64\\Debug\\vc145.pdb",
+                "x64\\Debug\\",
+                "C:\\Users\\gunp5\\source\\repos\\Hotel Management System\\Hotel Management System\\x64\\Debug\\gui.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "gui.h",
+                    "source-path": "c:\\users\\gunp5\\source\\repos\\hotel management system\\hotel management system\\gui.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}
